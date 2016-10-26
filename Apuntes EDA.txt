@@ -1,0 +1,10 @@
+Respecto al problema 1 del juez de EDA:
+void resolver(vector<int> const &(para que mande a la direccion de memoria)v){
+.....
+....
+.....
+....}
+
+maximo = v[0]
+cont = 1;
+for(int i = 1(porque ya se comprueba el 0));
